@@ -15,5 +15,12 @@ test.....test.....my name is wvede ###KPAGBAN
 !!!!!!! ???????
 ** THE IS A VERY BOLD TEXT**
 
-_MY NAME IS STILL VWEDE_
+_MY NAME IS STILL VWEDE in italised format_
+
+
+__ BUT THIS IS ALSO BOLD TEXT__
+#### I ALSO FELT LIKE OUTING A HEADING HERE...
+
+HEHEHEHEHEHEHEHEHE
+
 
